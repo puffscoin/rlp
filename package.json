@@ -32,7 +32,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ethereumjs/rlp.git"
+    "url": "https://github.com/puffscoin/rlp.git"
   },
   "keywords": [
     "rlp",
@@ -48,17 +48,17 @@
   ],
   "license": "MPL-2.0",
   "bugs": {
-    "url": "https://github.com/ethereumjs/rlp/issues"
+    "url": "https://github.com/puffscoin/rlp/issues"
   },
   "dependencies": {
     "safe-buffer": "^5.1.1",
     "bn.js": "^4.11.1"
   },
   "devDependencies": {
-    "@ethereumjs/config-nyc": "^1.0.0",
-    "@ethereumjs/config-prettier": "^1.0.1",
-    "@ethereumjs/config-tsc": "^1.0.2",
-    "@ethereumjs/config-tslint": "^1.0.0",
+    "@puffscoinjs/config-nyc": "^1.0.0",
+    "@puffscoinjs/config-prettier": "^1.0.1",
+    "@puffscoinjs/config-tsc": "^1.0.2",
+    "@puffscoinjs/config-tslint": "^1.0.0",
     "@types/bn.js": "^4.11.3",
     "@types/mocha": "^5.2.5",
     "@types/node": "^10.12.2",
