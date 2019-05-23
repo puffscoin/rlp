@@ -1,10 +1,5 @@
 # SYNOPSIS
 
-[![NPM Package](https://img.shields.io/npm/v/rlp.svg?style=flat-square)](https://www.npmjs.org/package/rlp)
-[![Build Status](https://img.shields.io/travis/ethereumjs/rlp.svg?branch=master&style=flat-square)](https://travis-ci.org/ethereumjs/rlp)
-[![Coverage Status](https://img.shields.io/coveralls/ethereumjs/rlp.svg?style=flat-square)](https://coveralls.io/r/ethereumjs/rlp)
-[![Gitter](https://img.shields.io/gitter/room/ethereum/ethereumjs-lib.svg?style=flat-square)](https://gitter.im/ethereum/ethereumjs-lib) or #ethereumjs on freenode
-
 [Recursive Length](https://github.com/ethereum/wiki/wiki/RLP) Prefix Encoding for node.js.
 
 ## INSTALL
@@ -51,8 +46,6 @@ Run
 The results are at
 `coverage/lcov-report/index.html`
 
-# EthereumJS
+# PuffscoinJS
 
-See our organizational [documentation](https://ethereumjs.readthedocs.io) for an introduction to `EthereumJS` as well as information on current standards and best practices.
-
-If you want to join for work or do improvements on the libraries have a look at our [contribution guidelines](https://ethereumjs.readthedocs.io/en/latest/contributing.html).
+See our organizational [documentation](http://puffscoin.leafycauldronapothecary.com/puffwiki/puffscoinjs-user-guide/) for an introduction to `PuffscoinJS`.
